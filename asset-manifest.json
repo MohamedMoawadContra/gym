@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/gym/static/css/main.bb054e7f.css",
-    "main.js": "/gym/static/js/main.a915d30d.js",
+    "main.js": "/gym/static/js/main.8cece0d7.js",
     "static/js/787.4159b215.chunk.js": "/gym/static/js/787.4159b215.chunk.js",
     "static/media/fa-solid-900.ttf": "/gym/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
     "static/media/Logo final.PNG": "/gym/static/media/Logo final.173536aa868d8c515028.PNG",
@@ -11,7 +11,6 @@
     "static/media/2.jpg": "/gym/static/media/2.67b2dec4cf0f8e391da1.jpg",
     "static/media/Home.jpg": "/gym/static/media/Home.2121f6d5f3f63ca29dba.jpg",
     "static/media/327882150___n.jpg": "/gym/static/media/327882150_1335073137336403_7941703851104913916_n.3065e585447e6e4a082c.jpg",
-    "static/media/7elwa2.jpg": "/gym/static/media/7elwa2.59eeb66ea5d2c76a0a4d.jpg",
     "static/media/7.jpg": "/gym/static/media/7.73433bbca221b3ee7562.jpg",
     "static/media/7elwa.jpg": "/gym/static/media/7elwa.895ee62afe78b1c77ad0.jpg",
     "static/media/fa-brands-400.ttf": "/gym/static/media/fa-brands-400.016b4a6cdced82ab3aa1.ttf",
@@ -46,11 +45,11 @@
     "static/media/fa-v4compatibility.woff2": "/gym/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
     "index.html": "/gym/index.html",
     "main.bb054e7f.css.map": "/gym/static/css/main.bb054e7f.css.map",
-    "main.a915d30d.js.map": "/gym/static/js/main.a915d30d.js.map",
+    "main.8cece0d7.js.map": "/gym/static/js/main.8cece0d7.js.map",
     "787.4159b215.chunk.js.map": "/gym/static/js/787.4159b215.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bb054e7f.css",
-    "static/js/main.a915d30d.js"
+    "static/js/main.8cece0d7.js"
   ]
 }
