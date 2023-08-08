@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/gym/static/css/main.448ce61e.css",
-    "main.js": "/gym/static/js/main.86af4f2d.js",
+    "main.css": "/gym/static/css/main.9610ee5a.css",
+    "main.js": "/gym/static/js/main.b1504e74.js",
     "static/js/787.4159b215.chunk.js": "/gym/static/js/787.4159b215.chunk.js",
     "static/media/fa-solid-900.ttf": "/gym/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
     "static/media/Logo final.PNG": "/gym/static/media/Logo final.173536aa868d8c515028.PNG",
@@ -11,7 +11,6 @@
     "static/media/2.jpg": "/gym/static/media/2.67b2dec4cf0f8e391da1.jpg",
     "static/media/Home.jpg": "/gym/static/media/Home.2121f6d5f3f63ca29dba.jpg",
     "static/media/327882150___n.jpg": "/gym/static/media/327882150_1335073137336403_7941703851104913916_n.3065e585447e6e4a082c.jpg",
-    "static/media/7.jpg": "/gym/static/media/7.73433bbca221b3ee7562.jpg",
     "static/media/fa-brands-400.ttf": "/gym/static/media/fa-brands-400.016b4a6cdced82ab3aa1.ttf",
     "static/media/t-9.jpg": "/gym/static/media/t-9.ea404e17b65c13dfcaaf.jpg",
     "static/media/t-7.jpg": "/gym/static/media/t-7.4e769d52ba44aec8d791.jpg",
@@ -19,8 +18,10 @@
     "static/media/t-10.jpg": "/gym/static/media/t-10.075a5548421005cce774.jpg",
     "static/media/t-5.jpg": "/gym/static/media/t-5.7d9a529b8febfb94b540.jpg",
     "static/media/1.jpg": "/gym/static/media/1.4e49336c7daac5db4993.jpg",
+    "static/media/9b9da984-5eb7-47db-a97a-3317ec5a7827.jpg": "/gym/static/media/9b9da984-5eb7-47db-a97a-3317ec5a7827.4e49336c7daac5db4993.jpg",
     "static/media/t-6.jpg": "/gym/static/media/t-6.e15ae21734c8e5a27a99.jpg",
     "static/media/fa-solid-900.woff2": "/gym/static/media/fa-solid-900.b6879d41b0852f01ed5b.woff2",
+    "static/media/3.jpg": "/gym/static/media/3.c1447e7bb7defd6b319e.jpg",
     "static/media/t-12.jpg": "/gym/static/media/t-12.5f1629664a91a5daca20.jpg",
     "static/media/t-13.jpg": "/gym/static/media/t-13.61e5995c35e20cadc662.jpg",
     "static/media/t-3.jpg": "/gym/static/media/t-3.19354c9d69f9b789d86e.jpg",
@@ -29,13 +30,12 @@
     "static/media/t-1.jpg": "/gym/static/media/t-1.0646e48e500db5f1a21a.jpg",
     "static/media/t-11.jpg": "/gym/static/media/t-11.bb40efcb4434dffa26c2.jpg",
     "static/media/t-4.jpg": "/gym/static/media/t-4.f8495539f1a347d3c7ad.jpg",
+    "static/media/9.jpg": "/gym/static/media/9.63d54344705d0e7e0cba.jpg",
     "static/media/fa-brands-400.woff2": "/gym/static/media/fa-brands-400.878f31251d960bd6266f.woff2",
     "static/media/17.jpg": "/gym/static/media/17.c6619e51dbf0fbb1827f.jpg",
     "static/media/f-1.jpg": "/gym/static/media/f-1.d4b1f99fb1dfb2007a8e.jpg",
-    "static/media/3.jpg": "/gym/static/media/3.38c7404e35f22e6276c5.jpg",
     "static/media/f-2.jpg": "/gym/static/media/f-2.bc942b335b50c1f3860b.jpg",
     "static/media/f-3.jpg": "/gym/static/media/f-3.74e242450981a6db68ec.jpg",
-    "static/media/9.jpg": "/gym/static/media/9.d7374bc8f466cbac969d.jpg",
     "static/media/fa-regular-400.ttf": "/gym/static/media/fa-regular-400.50701fbb8177c2dde530.ttf",
     "static/media/logo.jpg": "/gym/static/media/logo.f7c205f3d388442502a2.jpg",
     "static/media/f-4.jpg": "/gym/static/media/f-4.72ad933818c3180b0cef.jpg",
@@ -43,12 +43,12 @@
     "static/media/fa-v4compatibility.ttf": "/gym/static/media/fa-v4compatibility.c6a0c95b0a95c4553700.ttf",
     "static/media/fa-v4compatibility.woff2": "/gym/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
     "index.html": "/gym/index.html",
-    "main.448ce61e.css.map": "/gym/static/css/main.448ce61e.css.map",
-    "main.86af4f2d.js.map": "/gym/static/js/main.86af4f2d.js.map",
+    "main.9610ee5a.css.map": "/gym/static/css/main.9610ee5a.css.map",
+    "main.b1504e74.js.map": "/gym/static/js/main.b1504e74.js.map",
     "787.4159b215.chunk.js.map": "/gym/static/js/787.4159b215.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.448ce61e.css",
-    "static/js/main.86af4f2d.js"
+    "static/css/main.9610ee5a.css",
+    "static/js/main.b1504e74.js"
   ]
 }
